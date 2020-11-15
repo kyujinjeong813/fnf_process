@@ -96,6 +96,5 @@ if __name__ == '__main__':
     df_dt = df_dt.reset_index()
 
     df_merge = pd.merge(df_qty, df_dt, on=['year', 'weeknum'], how='left')
-    df_merge = df_merge['title', 'keyword', 'period', 'year', 'weeknum', 'search_qty']
-
+    
     df_merge.to_excel('target_result.xlsx')
