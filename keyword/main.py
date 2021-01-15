@@ -18,6 +18,7 @@ pd.set_option('display.width', 1000)
 def api_con_exe(startDate, endDate, period):
     '''검색하고자 하는 데이터 upload'''
     df_search = pd.read_excel("target_keyword.xlsx", sheet_name = 'Sheet1')
+    df_search = df_search.dropna(thresh=1)
     df_search['key_nm'] = np.nan
 
     df = pre_process(df_search)
