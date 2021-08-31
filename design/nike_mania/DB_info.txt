@@ -1,0 +1,4 @@
+host='172.0.2.93'
+dbname ='postgres'
+user='postgres'
+password='1111'

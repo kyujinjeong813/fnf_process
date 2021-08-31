@@ -1,0 +1,6 @@
+[0618/141910.391:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0618/141910.392:ERROR:exception_snapshot_win.cc(98)] thread ID 28216 not found in process
+[0928/132807.405:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0928/172402.005:ERROR:file_io_win.cc(162)] CreateFile C:\Users\kyujin\AppData\Local\Temp\scoped_dir20016_711422794\Crashpad\settings.dat: 지정된 경로를 찾을 수 없습니다. (0x3)
+[0928/172402.008:ERROR:file_io_win.cc(171)] CreateFile C:\Users\kyujin\AppData\Local\Temp\scoped_dir20016_711422794\Crashpad\reports\7fc2379a-9e61-4308-8c63-ee26e957a33b.dmp: 지정된 경로를 찾을 수 없습니다. (0x3)
+[0928/172402.008:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed

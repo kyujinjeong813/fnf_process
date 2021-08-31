@@ -1,0 +1,169 @@
+2021-03-29 05:59:31.404313finish df
+2021-03-29 05:59:39.551502finish  inserting to redshift
+2021-03-30 17:11:12.937691finish df
+2021-03-30 17:11:16.223897finish  inserting to redshift
+2021-03-31 14:21:06.201282finish df
+2021-03-31 14:21:08.414364finish  inserting to redshift
+2021-04-01 09:49:31.947772finish df
+2021-04-01 09:49:34.031544finish  inserting to redshift
+2021-04-01 14:54:05.885748finish df
+2021-04-01 14:54:08.183672finish  inserting to redshift
+2021-04-01 15:03:57.247267finish df
+2021-04-01 15:03:59.544834finish  inserting to redshift
+2021-04-07 14:25:51.680803finish df
+2021-04-07 14:25:59.407498finish  inserting to redshift
+2021-04-07 15:27:46.886064finish df
+2021-04-07 15:27:49.045761finish  inserting to redshift
+2021-04-08 05:28:59.753705finish df
+2021-04-08 05:29:01.873077finish  inserting to redshift
+2021-04-12 18:25:18.071359finish df
+2021-04-12 18:25:23.532723finish  inserting to redshift
+2021-04-22 10:55:10.763981finish df
+2021-04-22 10:55:14.055376finish  inserting to redshift
+2021-04-22 17:45:38.639168finish df
+2021-04-22 17:46:59.900492finish df
+2021-04-22 17:47:01.025720finish  inserting to redshift
+2021-04-23 17:57:23.626857finish df
+2021-04-23 17:57:25.774592finish  inserting to redshift
+2021-04-26 10:14:15.453321finish df
+2021-04-26 10:14:17.855961finish  inserting to redshift
+2021-04-26 11:30:11.336355finish df
+2021-04-26 11:30:16.080712finish  inserting to redshift
+2021-04-30 13:18:36.303045finish df
+2021-04-30 13:18:40.576354finish  inserting to redshift
+2021-05-03 13:17:21.975547finish df
+2021-05-03 13:17:28.748102finish  inserting to redshift
+2021-05-07 00:07:07.536085finish df
+2021-05-07 00:07:10.385390finish  inserting to redshift
+2021-05-07 15:22:07.315011finish df
+2021-05-07 15:22:10.162390finish  inserting to redshift
+2021-05-07 18:07:56.849444finish df
+2021-05-07 18:08:00.612373finish  inserting to redshift
+2021-05-10 10:17:34.722317finish df
+2021-05-10 10:17:42.770145finish  inserting to redshift
+2021-05-10 10:32:50.131644finish df
+2021-05-10 10:32:52.998848finish  inserting to redshift
+2021-05-11 14:46:56.200975finish df
+2021-05-11 14:47:00.421961finish  inserting to redshift
+2021-05-14 11:47:08.638845finish df
+2021-05-14 11:47:12.011272finish  inserting to redshift
+2021-05-18 09:23:25.679227finish df
+2021-05-18 09:23:30.068483finish  inserting to redshift
+2021-05-18 15:01:57.737859finish df
+2021-05-18 15:02:00.288257finish  inserting to redshift
+2021-05-18 17:29:41.904510finish df
+2021-05-18 17:29:44.785438finish  inserting to redshift
+2021-05-18 17:53:33.298058finish df
+2021-05-18 17:53:35.830007finish  inserting to redshift
+2021-05-20 10:28:24.677163finish df
+2021-05-20 10:28:26.970019finish  inserting to redshift
+2021-05-20 17:59:10.355617finish df
+2021-05-20 17:59:15.017389finish  inserting to redshift
+2021-05-20 18:29:12.031779finish df
+2021-05-20 18:29:14.923382finish  inserting to redshift
+2021-05-20 18:36:26.192443finish df
+2021-05-20 18:36:30.812257finish  inserting to redshift
+2021-05-21 10:12:16.125658finish df
+2021-05-21 10:12:18.416866finish  inserting to redshift
+2021-05-24 17:43:25.230293finish df
+2021-05-24 17:43:27.483357finish  inserting to redshift
+2021-05-24 17:48:31.577838finish df
+2021-05-24 17:48:33.948934finish  inserting to redshift
+2021-05-27 15:23:26.718154finish df
+2021-05-27 15:23:28.968017finish  inserting to redshift
+2021-06-01 17:56:32.170875finish df
+2021-06-01 17:56:34.479652finish  inserting to redshift
+2021-06-04 11:01:39.138439finish df
+2021-06-04 11:01:41.536000finish  inserting to redshift
+2021-06-04 13:55:06.996275finish df
+2021-06-04 13:55:09.354997finish  inserting to redshift
+2021-06-07 11:04:25.743800finish df
+2021-06-07 11:04:36.391313finish  inserting to redshift
+2021-06-07 13:56:09.154156finish df
+2021-06-07 13:56:14.817004finish  inserting to redshift
+2021-06-07 16:55:44.638894finish df
+2021-06-07 16:56:05.602231finish  inserting to redshift
+2021-06-10 09:33:11.061766finish df
+2021-06-10 09:33:17.709421finish  inserting to redshift
+2021-06-10 16:40:31.260061finish df
+2021-06-10 16:40:33.649423finish  inserting to redshift
+2021-06-15 10:40:33.620083finish df
+2021-06-15 10:40:37.422587finish  inserting to redshift
+2021-06-17 10:13:53.140464finish df
+2021-06-17 10:13:55.458266finish  inserting to redshift
+2021-06-17 14:17:10.247789finish df
+2021-06-17 14:17:12.477825finish  inserting to redshift
+2021-06-22 10:25:21.896506finish df
+2021-06-22 10:25:32.681667finish  inserting to redshift
+2021-06-22 11:12:59.474062finish df
+2021-06-22 11:13:01.970387finish  inserting to redshift
+2021-06-23 11:23:56.786321finish df
+2021-06-23 11:23:59.240758finish  inserting to redshift
+2021-06-24 15:32:31.639543finish df
+2021-06-24 15:32:34.004247finish  inserting to redshift
+2021-07-07 18:47:36.178186finish df
+2021-07-07 18:47:38.949745finish  inserting to redshift
+2021-07-08 09:57:35.692336finish df
+2021-07-08 09:57:38.988636finish  inserting to redshift
+2021-07-08 11:03:21.357285finish df
+2021-07-08 11:03:24.750061finish  inserting to redshift
+2021-07-08 13:27:38.003073finish df
+2021-07-08 13:27:41.209125finish  inserting to redshift
+2021-07-12 13:23:03.570138finish df
+2021-07-12 13:23:12.176489finish  inserting to redshift
+2021-07-13 10:10:01.617828finish df
+2021-07-13 10:10:05.991254finish  inserting to redshift
+2021-07-14 18:07:54.572707finish df
+2021-07-14 18:07:56.990201finish  inserting to redshift
+2021-07-15 09:27:32.201079finish df
+2021-07-15 09:27:36.657210finish  inserting to redshift
+2021-07-15 16:42:30.182836finish df
+2021-07-15 16:42:36.008289finish  inserting to redshift
+2021-07-19 10:44:20.119369finish df
+2021-07-19 10:44:23.664686finish  inserting to redshift
+2021-07-19 16:00:49.998195finish df
+2021-07-19 16:00:52.659129finish  inserting to redshift
+2021-07-19 18:04:00.028610finish df
+2021-07-19 18:04:03.041586finish  inserting to redshift
+2021-07-26 10:07:35.914725finish df
+2021-07-26 10:07:39.913789finish  inserting to redshift
+2021-07-26 10:31:23.895806finish df
+2021-07-26 10:31:31.172735finish  inserting to redshift
+2021-07-26 11:07:44.716728finish df
+2021-07-26 11:07:49.168498finish  inserting to redshift
+2021-07-26 11:35:38.477071finish df
+2021-07-26 11:35:43.785179finish  inserting to redshift
+2021-07-27 13:14:00.574147finish df
+2021-07-27 13:14:02.854051finish  inserting to redshift
+2021-07-27 13:31:51.643214finish df
+2021-07-27 13:31:54.205606finish  inserting to redshift
+2021-07-27 15:54:39.156076finish df
+2021-07-27 15:54:41.413400finish  inserting to redshift
+2021-07-28 10:22:05.173566finish df
+2021-07-28 10:22:08.671166finish  inserting to redshift
+2021-08-04 16:09:15.656541finish df
+2021-08-04 16:09:18.418676finish  inserting to redshift
+2021-08-06 11:13:18.841531finish df
+2021-08-06 11:13:21.901349finish  inserting to redshift
+2021-08-06 14:56:46.735601finish df
+2021-08-06 14:56:49.296782finish  inserting to redshift
+2021-08-06 16:54:12.987072finish df
+2021-08-06 16:54:17.638664finish  inserting to redshift
+2021-08-09 10:14:02.168621finish df
+2021-08-09 10:14:09.684498finish  inserting to redshift
+2021-08-09 11:54:57.426313finish df
+2021-08-09 11:55:00.266690finish  inserting to redshift
+2021-08-11 17:26:51.330469finish df
+2021-08-11 17:26:59.235868finish  inserting to redshift
+2021-08-17 09:24:45.232044finish df
+2021-08-17 09:24:53.596690finish  inserting to redshift
+2021-08-17 11:23:29.607629finish df
+2021-08-17 11:23:35.353274finish  inserting to redshift
+2021-08-17 16:27:22.812823finish df
+2021-08-17 16:27:25.527568finish  inserting to redshift
+2021-08-24 13:31:16.466454finish df
+2021-08-24 13:31:19.350771finish  inserting to redshift
+2021-08-24 16:20:09.496997finish df
+2021-08-24 16:20:12.702422finish  inserting to redshift
+2021-08-25 13:33:20.148899finish df
+2021-08-25 13:33:22.839744finish  inserting to redshift

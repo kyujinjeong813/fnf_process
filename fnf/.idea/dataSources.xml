@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="fnf" uuid="3c78860a-2e34-4396-98b2-d7b59fec8de8">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@idb.fnf.co.kr:1521:fnfdb_pdb1.prdprisub01.fnfvcn.oraclevcn.com</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="process_postgresql" uuid="432044e1-f473-464b-91eb-6d57a619cfd2">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://172.0.2.93:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="postgres@dev-ffdt-db-instance.cqn2lfalbvwx.ap-northeast-2.rds.amazonaws.com" uuid="6634e822-b18f-4522-9414-77cdf20b0d5a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://dev-ffdt-db-instance.cqn2lfalbvwx.ap-northeast-2.rds.amazonaws.com:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="influencer_system" uuid="58bef131-3fa1-4c2b-9264-d12509d18606">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://fnf.ch4iazthcd1k.ap-northeast-2.rds.amazonaws.com:3306</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="fnf-process.ch4iazthcd1k.ap-northeast-2.rds.amazonaws.com" uuid="d6717edb-5e53-4377-a645-c49d04b3fc3a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://fnf-process.ch4iazthcd1k.ap-northeast-2.rds.amazonaws.com:35430/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="fnf@prd-dt-redshift.conhugwtudej.ap-northeast-2.redshift.amazonaws.com" uuid="69da231c-9bee-4c99-b3e9-aa9da3216bef">
+      <driver-ref>redshift</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.amazon.redshift.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:redshift://prd-dt-redshift.conhugwtudej.ap-northeast-2.redshift.amazonaws.com:5439/fnf</jdbc-url>
+    </data-source>
+  </component>
+</project>

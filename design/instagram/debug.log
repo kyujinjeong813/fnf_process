@@ -1,0 +1,5 @@
+[1125/155216.552:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+[1125/155216.552:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1125/192749.049:ERROR:file_io_win.cc(162)] CreateFile C:\Users\kyujin\AppData\Local\Temp\scoped_dir23604_771101720\Crashpad\settings.dat: 지정된 경로를 찾을 수 없습니다. (0x3)
+[1125/192749.050:ERROR:file_io_win.cc(171)] CreateFile C:\Users\kyujin\AppData\Local\Temp\scoped_dir23604_771101720\Crashpad\reports\be8ecd0e-c9c6-4709-8a80-4323685636c6.dmp: 지정된 경로를 찾을 수 없습니다. (0x3)
+[1125/192749.050:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
